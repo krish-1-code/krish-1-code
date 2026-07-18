@@ -5,7 +5,6 @@
 🤖 Specializing in AI / Machine Learning  
 🚀 Interested in Software Development  
 📊 Passionate about Statistics & Data Analytics  
-🌱 Always learning, always building  
 
 ---
 
