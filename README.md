@@ -8,4 +8,8 @@
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=krish-1-code&layout=donut&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=krish-1-code&layout=donut&langs_count=5&theme=radical)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=krish-1-code&layout=donut&langs_count=5&theme=radical" height="185" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api?username=krish-1-code&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical" height="185" alt="GitHub Stats" />
+</p>
